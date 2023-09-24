@@ -41,6 +41,7 @@ bindkey -s '^a' '^ubc -lq\n'
 bindkey -s '^f' '^ucd "$(dirname "$(fzf)")"\n'
 
 bindkey "^[[P" delete-char
+bindkey "^[[3~" delete-char
 
 # FNM
 eval "$(fnm env --use-on-cd)"
