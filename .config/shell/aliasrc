@@ -13,11 +13,6 @@ for command in mount umount sv pacman updatedb su shutdown poweroff reboot ; do
 	alias $command="sudo $command"
 done; unset command
 
-se() {
-	choice="$(find ~/.local/bin -mindepth 1 -printf '%P\n' | fzf)"
-	[ -f "$HOME/.local/bin/$choice" ] && $EDITOR "$HOME/.local/bin/$choice"
-	;}
-
 # Verbosity and settings that you pretty much just always are going to want.
 alias \
 	cp="cp -iv" \
@@ -81,3 +76,4 @@ alias code="vscodium"
 alias path="echo $PATH | sed -r 's/:/\n/g'| cat -n"
 
 alias killport='function _killp(){ lsof -nti:$1 | xargs kill -9 };_killp'
+alias docker-kill="docker kill $(docker ps -q)"
