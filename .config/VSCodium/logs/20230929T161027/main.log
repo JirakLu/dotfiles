@@ -1,0 +1,5 @@
+2023-09-29 16:10:27.275 [info] update#setState disabled
+2023-09-29 16:10:27.276 [info] update#ctor - updates are disabled as there is no update URL
+2023-09-29 16:11:20.941 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-09-29 16:22:26.473 [info] Extension host with pid 23934 exited with code: 0, signal: unknown.
+2023-09-29 16:22:31.315 [info] Extension host with pid 25863 exited with code: 0, signal: unknown.

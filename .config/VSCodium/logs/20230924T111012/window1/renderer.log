@@ -1,0 +1,3 @@
+2023-09-24 11:10:17.009 [info] [perf] Render performance baseline is 49ms
+2023-09-24 11:10:19.633 [error] Git error
+2023-09-24 11:10:46.675 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

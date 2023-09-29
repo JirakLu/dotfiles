@@ -1,0 +1,25 @@
+2023-09-29 16:22:35.277 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2023-09-29 16:22:38.275 [info] [perf] Render performance baseline is 31ms
+2023-09-29 16:40:50.967 [error] Cannot read properties of undefined (reading 'dragStartDisposable'): TypeError: Cannot read properties of undefined (reading 'dragStartDisposable')
+    at p._splice (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:177:14478)
+    at p.splice (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:177:14177)
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4:9244
+    at Array.forEach (<anonymous>)
+    at t.splice (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4:9231)
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:210:9031
+    at E.bufferEvents (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:70:6335)
+    at Y.splice (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:210:8998)
+    at Y.splice (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:596:62336)
+    at f._setListNodeCollapseState (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:173:30817)
+    at f._setCollapseState (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:173:30322)
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:173:30198
+    at E.bufferEvents (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:70:6335)
+    at f.setCollapsed (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:173:30176)
+    at R.setCollapsed (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:173:39473)
+    at p.collapseAll (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:597:550)
+    at me.triggerSearch (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2319:103352)
+    at me.onSearchInputChanged (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2319:101614)
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2319:83299
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:132:17871
+2023-09-29 16:44:30.663 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2023-09-29 16:44:33.777 [info] [perf] Render performance baseline is 46ms

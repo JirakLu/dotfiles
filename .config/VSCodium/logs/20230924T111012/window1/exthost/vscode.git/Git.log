@@ -1,0 +1,26 @@
+2023-09-24 11:10:14.320 [info] Log level: Info
+2023-09-24 11:10:14.320 [info] Validating found git in: "git"
+2023-09-24 11:10:14.320 [info] Using git "2.42.0" from "git"
+2023-09-24 11:10:14.320 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-24 11:10:14.322 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-09-24 11:10:14.337 [info] Open repository: /home/lukas/Github/dotfiles
+2023-09-24 11:10:14.364 [info] > git rev-parse --show-toplevel [11ms]
+2023-09-24 11:10:14.365 [info] > git config --get commit.template [20ms]
+2023-09-24 11:10:14.383 [info] > git rev-parse --show-toplevel [10ms]
+2023-09-24 11:10:14.384 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-24 11:10:14.393 [info] > git status -z -uall [3ms]
+2023-09-24 11:10:14.409 [info] > git config --get commit.template [1ms]
+2023-09-24 11:10:14.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-24 11:10:14.427 [info] > git status -z -uall [3ms]
+2023-09-24 11:10:14.889 [info] > git check-ignore -v -z --stdin [5ms]
+2023-09-24 11:10:15.656 [info] > git fetch [1321ms]
+2023-09-24 11:10:15.675 [info] > git config --get commit.template [9ms]
+2023-09-24 11:10:15.676 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-24 11:10:15.686 [info] > git status -z -uall [3ms]
+2023-09-24 11:10:16.026 [info] > git check-ignore -v -z --stdin [3ms]
+2023-09-24 11:10:17.174 [info] > git check-ignore -v -z --stdin [5ms]
+2023-09-24 11:10:18.623 [info] > git check-ignore -v -z --stdin [5ms]
+2023-09-24 11:11:07.080 [info] No remotes found in the git config file.
+2023-09-24 11:11:07.082 [info] > git config --get commit.template [9ms]
+2023-09-24 11:11:07.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-24 11:11:07.091 [info] > git status -z -uall [2ms]

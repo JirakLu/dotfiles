@@ -1,0 +1,37 @@
+{
+	"name": "Astro",
+	"displayName": "Astro Theme",
+	"publisher": "Astro",
+	"description": " A minimal, sigma green, cyan, and purple (astro) theme based on the One Dark Pro theme.",
+	"version": "1.9.0",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bereketsemagn/astro-theme"
+	},
+	"homepage": "https://github.com/bereketsemagn/astro-theme",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Astro Theme",
+		"dark",
+		"green",
+		"italic"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Astro Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/astro-theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1695998263858
+	}
+}

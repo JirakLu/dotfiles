@@ -1,0 +1,11 @@
+2023-09-23 11:17:54.748 [info] Extension host with pid 12316 started
+2023-09-23 11:17:54.748 [info] Skipping acquiring lock for /home/lukas/.config/VSCodium/User/workspaceStorage/da96e22a1f32e5024f533a64685234c2.
+2023-09-23 11:17:54.784 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-23 11:17:54.803 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-23 11:17:54.825 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-23 11:17:54.870 [info] Eager extensions activated
+2023-09-23 11:17:54.892 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-23 11:17:54.897 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-23 11:17:55.856 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-23 11:25:52.242 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-23 11:25:52.246 [info] Extension host with pid 12316 exiting with code 0

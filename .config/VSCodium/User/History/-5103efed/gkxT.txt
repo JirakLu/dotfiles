@@ -1,0 +1,7 @@
+chromium
+firefox
+mpv
+libreoffice-fresh
+neofetch
+vlc
+yt-dlp

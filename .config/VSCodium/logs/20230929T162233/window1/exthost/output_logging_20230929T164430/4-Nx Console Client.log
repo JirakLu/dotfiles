@@ -1,0 +1,19 @@
+[Nxls] - 2023-09-29T14:45:07.519Z - Retrieving workspace configuration
+
+[Nxls] - 2023-09-29T14:45:07.527Z - Using local Nx package at /home/lukas/Work/ui-monorepo/node_modules/nx/src/utils/output.js
+
+[Nxls] - 2023-09-29T14:45:07.603Z - Using local Nx package at /home/lukas/Work/ui-monorepo/node_modules/nx/src/project-graph/file-utils.js
+
+[Nxls] - 2023-09-29T14:45:07.603Z - Using local Nx package at /home/lukas/Work/ui-monorepo/node_modules/nx/src/project-graph/project-graph.js
+
+[Nxls] - 2023-09-29T14:45:07.604Z - Using local Nx package at /home/lukas/Work/ui-monorepo/node_modules/nx/src/project-graph/file-map-utils.js
+
+[Nxls] - 2023-09-29T14:45:07.611Z - createProjectGraphAsync
+
+[Nxls] - 2023-09-29T14:45:07.965Z - createProjectGraphAsync successful
+
+process.exit called with code 1
+[Nxls] - 2023-09-29T14:45:07.971Z - Retrieved workspace configuration in: 451.64370800182223 ms
+
+[Nxls] - 2023-09-29T14:47:46.852Z - Unregistering file watcher
+

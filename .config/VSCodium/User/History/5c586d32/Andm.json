@@ -1,0 +1,20 @@
+{
+    "workbench.enableExperiments": false,
+    "update.showReleaseNotes": false,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "editor.renderWhitespace": "none",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": false,
+    "editor.lineNumbers": "relative",
+    "workbench.colorTheme": "Astro Theme",
+    material-icon-theme.folders.color": "#8695b7",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.hidesExplorerArrows": true,
+}

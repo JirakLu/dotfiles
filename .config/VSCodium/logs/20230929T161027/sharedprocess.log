@@ -1,0 +1,84 @@
+2023-09-29 16:11:20.928 [info] Extensions removed from another source golang.go vscode-userdata:/home/lukas/.vscode-oss/extensions/extensions.json
+2023-09-29 16:11:20.964 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-09-29 16:11:20.967 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lukas/.vscode-oss/extensions
+2023-09-29 16:11:20.995 [error] Error: Unable to resolve nonexistent file '/home/lukas/.vscode-oss/extensions'
+    at p.resolve (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:19027)
+    at async $.scanExtensionsFromLocation (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118578)
+    at async $.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118262)
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109453)
+    at async /opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:112044
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109576)
+    at async Promise.all (index 1)
+    at async g.scanAllExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:108461)
+    at async x.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:14652)
+    at async h.call (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:26336)
+2023-09-29 16:11:41.182 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lukas/.vscode-oss/extensions
+2023-09-29 16:11:41.232 [error] Error: Unable to resolve nonexistent file '/home/lukas/.vscode-oss/extensions'
+    at p.resolve (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:19027)
+    at async $.scanExtensionsFromLocation (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118578)
+    at async $.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118262)
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109453)
+    at async /opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:112044
+2023-09-29 16:11:51.137 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lukas/.vscode-oss/extensions
+2023-09-29 16:11:51.158 [error] Error: Unable to resolve nonexistent file '/home/lukas/.vscode-oss/extensions'
+    at p.resolve (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:19027)
+    at async $.scanExtensionsFromLocation (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118578)
+    at async $.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118262)
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109453)
+    at async /opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:112044
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109576)
+    at async Promise.all (index 1)
+    at async g.scanAllExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:108461)
+    at async x.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:14652)
+    at async h.call (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:26336)
+2023-09-29 16:11:51.301 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lukas/.vscode-oss/extensions
+2023-09-29 16:11:51.302 [error] Error: Unable to resolve nonexistent file '/home/lukas/.vscode-oss/extensions'
+    at p.resolve (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:19027)
+    at async $.scanExtensionsFromLocation (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118578)
+    at async $.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118262)
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109453)
+    at async /opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:112044
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109576)
+    at async x.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:14750)
+    at async h.call (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:26336)
+2023-09-29 16:15:30.907 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lukas/.vscode-oss/extensions
+2023-09-29 16:15:30.908 [error] Error: Unable to resolve nonexistent file '/home/lukas/.vscode-oss/extensions'
+    at p.resolve (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:19027)
+    at async $.scanExtensionsFromLocation (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118578)
+    at async $.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118262)
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109453)
+    at async /opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:112044
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109576)
+    at async x.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:14750)
+    at async h.call (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:26336)
+2023-09-29 16:21:42.489 [info] Getting Manifest... asvetliakov.vscode-neovim
+2023-09-29 16:21:42.865 [info] Installing extension: asvetliakov.vscode-neovim
+2023-09-29 16:21:42.897 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lukas/.vscode-oss/extensions
+2023-09-29 16:21:42.919 [error] Error: Unable to resolve nonexistent file '/home/lukas/.vscode-oss/extensions'
+    at p.resolve (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:19027)
+    at async $.scanExtensionsFromLocation (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118578)
+    at async $.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:118262)
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109453)
+    at async /opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:112044
+    at async g.scanUserExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:109576)
+    at async Promise.all (index 1)
+    at async g.scanAllExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:108461)
+    at async x.scanExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:14652)
+    at async Y.getAllDepsAndPackExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:87658)
+    at async Y.installExtension (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:82563)
+    at async /opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:81117
+    at async Promise.allSettled (index 0)
+    at async Y.installExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:81064)
+    at async Y.installGalleryExtensions (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:78913)
+    at async Y.installFromGallery (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:78159)
+2023-09-29 16:21:42.926 [error] Error while preparing to install dependencies and extension packs of the extension: asvetliakov.vscode-neovim
+2023-09-29 16:21:42.926 [error] Failed to install extension. asvetliakov.vscode-neovim
+2023-09-29 16:21:42.927 [error] Error: Unable to read file 'vscode-userdata:/home/lukas/.vscode-oss/extensions/extensions.json' (Error: Unable to resolve nonexistent file 'vscode-userdata:/home/lukas/.vscode-oss/extensions/extensions.json')
+    at Object.factory (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:82:102499)
+2023-09-29 16:22:12.994 [info] Getting Manifest... asvetliakov.vscode-neovim
+2023-09-29 16:22:13.489 [info] Installing extension: asvetliakov.vscode-neovim
+2023-09-29 16:22:14.979 [info] Extension signature verification is not done: asvetliakov.vscode-neovim
+2023-09-29 16:22:15.059 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.6.1-universal: asvetliakov.vscode-neovim
+2023-09-29 16:22:15.064 [info] Renamed to /home/lukas/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.6.1-universal
+2023-09-29 16:22:15.065 [info] Extracting extension completed. asvetliakov.vscode-neovim
+2023-09-29 16:22:15.077 [info] Extension installed successfully: asvetliakov.vscode-neovim

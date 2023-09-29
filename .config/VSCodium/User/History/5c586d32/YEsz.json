@@ -1,0 +1,8 @@
+{
+    "workbench.enableExperiments": false,
+    "update.showReleaseNotes": false,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "editor.renderWhitespace": "none"
+}

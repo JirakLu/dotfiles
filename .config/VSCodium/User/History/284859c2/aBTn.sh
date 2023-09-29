@@ -1,0 +1,9 @@
+#!/bin/bash
+
+for dir in $(find . -mindepth 2 -maxdepth 2 -type d -not -path '*/\.git*')
+do
+    source_dir=${dir/\.\//"$HOME/"}
+    target_dir=${dir/\.\//$(pwd)}
+    echo $source_dir
+    echo $target_dir
+done

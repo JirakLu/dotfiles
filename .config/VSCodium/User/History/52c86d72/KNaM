@@ -1,0 +1,85 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# Use $XINITRC variable if file exists.
+[ -f "$XINITRC" ] && alias startx="startx $XINITRC"
+
+[ -f "$MBSYNCRC" ] && alias mbsync="mbsync -c $MBSYNCRC"
+
+# sudo not required for some system commands
+for command in mount umount sv pacman updatedb su shutdown poweroff reboot ; do
+	alias $command="sudo $command"
+done; unset command
+
+se() {
+	choice="$(find ~/.local/bin -mindepth 1 -printf '%P\n' | fzf)"
+	[ -f "$HOME/.local/bin/$choice" ] && $EDITOR "$HOME/.local/bin/$choice"
+	;}
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -vI" \
+	bc="bc -ql" \
+	rsync="rsync -vrPlu" \
+	mkdir="mkdir -pv" \
+	ffmpeg="ffmpeg -hide_banner"
+
+# Colorize commands when possible.
+alias \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi" \
+	ip="ip -color=auto"
+
+# Replace ls with exa
+alias \
+	ls="exa -al --color=always --group-directories-first --icons" \
+	la="exa -a --color=always --group-directories-first --icons"  \
+	ll="exa -l --color=always --group-directories-first --icons"  \
+	lt="exa -aT --color=always --group-directories-first --icons" \
+	l.="exa -a | egrep '^\.'"
+
+# Replace cat with bat
+alias cat="bat --style header --style snip --style changes --style header"
+
+# Alias's for archives
+alias \
+	mktar='tar -cvf' \
+	mkbz2='tar -cvjf' \
+ 	mkgz='tar -cvzf' \
+ 	untar='tar -xvf' \
+ 	unbz2='tar -xvjf' \
+ 	ungz='tar -xvzf'
+
+# Change directory aliases
+alias home='cd ~'
+alias cd..='cd ..'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+
+# Cleanup orphaned packages
+alias cleanup='sudo pacman -Rns (pacman -Qtdq)'
+
+# Get the error messages from journalctl
+alias jctl="journalctl -p 3 -xb"
+
+# Get fastest mirrors
+alias mirror="sudo reflector -a 48 -c Czechia -f 5 -l 20 -p https --sort rate --save /etc/pacman.d/mirrorl
+ist"
+
+# Suckless aliases
+alias dwm-compile='set current_dir $PWD;cd "$HOME/Suckless/dwm";sudo make install clean;cd "$current_dir"'
+alias st-compile='set current_dir $PWD;cd "$HOME/Suckless/st-luke";sudo make install clean;cd "$current_di
+r"'
+alias slock-compile='set current_dir $PWD;cd "$HOME/Suckless/slock";sudo make install clean;cd "$current_d
+ir"'
+alias dmenu-compile='set current_dir $PWD;cd "$HOME/Suckless/dmenu";sudo make install clean;cd "$current_d
+ir"'
+
+alias code="vscodium"

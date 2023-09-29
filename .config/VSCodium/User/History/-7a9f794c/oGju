@@ -1,0 +1,90 @@
+!! ST config
+
+!! Transparency (0-1):
+st.alpha: 1
+st.alphaOffset: 0.05
+
+!! Set a default font and font size as below:
+st.font: JetBrainsMono Nerd Font-11;
+
+! st.termname: st-256color
+! st.borderpx: 2
+
+
+!! Catpuccin - mocha
+*background: #1E1E2E
+*foreground: #CDD6F4
+
+! black
+*color0: #45475A
+*color8: #585B70
+
+! red
+*color1: #F38BA8
+*color9: #F38BA8
+
+! green
+*color2: #A6E3A1
+*color10: #A6E3A1
+
+! yellow
+*color3: #F9E2AF
+*color11: #F9E2AF
+
+! blue
+*color4: #89B4FA
+*color12: #89B4FA
+
+! magenta
+*color5: #F5C2E7
+*color13: #F5C2E7
+
+! cyan
+*color6: #94E2D5
+*color14: #94E2D5
+
+! white
+*color7: #BAC2DE
+*color15: #A6ADC8
+
+!! Nordic
+
+#define nord0 
+#define nord1 
+#define nord2 
+#define nord3 
+#define nord4 
+#define nord5 #E5E9F0
+#define nord6 #ECEFF4
+#define nord7 #8FBCBB
+#define nord8 #88C0D0
+#define nord9 #81A1C1
+#define nord10 #5E81AC
+#define nord11 #BF616A
+#define nord12 #D08770
+#define nord13 #EBCB8B
+#define nord14 #A3BE8C
+#define nord15 #B48EAD
+
+*.foreground:   #D8DEE9
+*.background:   #2E3440
+*.cursorColor:  #D8DEE9
+*fading: 35
+*fadeColor: #4C566A
+
+*.color0: #3B4252
+*.color1: nord11
+*.color2: nord14
+*.color3: nord13
+*.color4: nord9
+*.color5: nord15
+*.color6: nord8
+*.color7: nord5
+*.color8: #4C566A
+*.color9: nord11
+*.color10: nord14
+*.color11: nord13
+*.color12: nord9
+*.color13: nord15
+*.color14: nord7
+*.color15: nord6

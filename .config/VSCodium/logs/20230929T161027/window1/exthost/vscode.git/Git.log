@@ -1,0 +1,47 @@
+2023-09-29 16:10:28.860 [info] Log level: Info
+2023-09-29 16:10:28.860 [info] Validating found git in: "git"
+2023-09-29 16:10:28.860 [info] Using git "2.42.0" from "git"
+2023-09-29 16:10:28.860 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-29 16:10:28.860 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2023-09-29 16:10:28.860 [info] Open repository: /home/lukas/Github/dotfiles
+2023-09-29 16:10:28.874 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-29 16:10:28.875 [info] > git config --get commit.template [10ms]
+2023-09-29 16:10:28.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-29 16:10:28.892 [info] > git rev-parse --show-toplevel [12ms]
+2023-09-29 16:10:28.894 [info] > git status -z -uall [2ms]
+2023-09-29 16:10:28.904 [info] > git config --get commit.template [2ms]
+2023-09-29 16:10:28.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-29 16:10:28.915 [info] > git status -z -uall [2ms]
+2023-09-29 16:10:29.235 [info] > git show --textconv :install.sh [5ms]
+2023-09-29 16:10:29.236 [info] > git ls-files --stage -- /home/lukas/Github/dotfiles/install.sh [1ms]
+2023-09-29 16:10:29.241 [info] > git cat-file -s 957fd6e5bfedd5fe0d2765a11aa6db20b4adfc0e [1ms]
+2023-09-29 16:10:29.383 [info] > git check-ignore -v -z --stdin [5ms]
+2023-09-29 16:10:30.310 [info] > git fetch [1456ms]
+2023-09-29 16:10:30.349 [info] > git config --get commit.template [20ms]
+2023-09-29 16:10:30.352 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-29 16:10:30.379 [info] > git status -z -uall [9ms]
+2023-09-29 16:10:31.401 [info] > git ls-files --stage -- /home/lukas/Github/dotfiles/install.sh [2ms]
+2023-09-29 16:10:31.410 [info] > git cat-file -s 957fd6e5bfedd5fe0d2765a11aa6db20b4adfc0e [1ms]
+2023-09-29 16:10:31.420 [info] > git show --textconv :install.sh [2ms]
+2023-09-29 16:21:17.814 [info] > git fetch [1236ms]
+2023-09-29 16:21:17.825 [info] > git config --get commit.template [5ms]
+2023-09-29 16:21:17.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-29 16:21:17.833 [info] > git status -z -uall [2ms]
+2023-09-29 16:22:26.945 [info] Log level: Info
+2023-09-29 16:22:26.945 [info] Validating found git in: "git"
+2023-09-29 16:22:26.945 [info] Using git "2.42.0" from "git"
+2023-09-29 16:22:26.945 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-29 16:22:26.955 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-09-29 16:22:26.972 [info] Open repository: /home/lukas/Github/dotfiles
+2023-09-29 16:22:26.991 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-29 16:22:26.991 [info] > git config --get commit.template [12ms]
+2023-09-29 16:22:27.003 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-29 16:22:27.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-29 16:22:27.011 [info] > git status -z -uall [2ms]
+2023-09-29 16:22:27.142 [info] > git config --get commit.template [8ms]
+2023-09-29 16:22:27.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-29 16:22:27.164 [info] > git status -z -uall [5ms]
+2023-09-29 16:22:28.198 [info] > git fetch [1226ms]
+2023-09-29 16:22:28.230 [info] > git config --get commit.template [17ms]
+2023-09-29 16:22:28.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-29 16:22:28.244 [info] > git status -z -uall [3ms]

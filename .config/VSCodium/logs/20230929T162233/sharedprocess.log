@@ -1,0 +1,60 @@
+2023-09-29 16:37:43.965 [info] Extensions added from another source astro.astro vscode-userdata:/home/lukas/.vscode-oss/extensions/extensions.json
+2023-09-29 16:40:12.652 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2023-09-29 16:40:13.028 [info] Installing extension: catppuccin.catppuccin-vsc-icons
+2023-09-29 16:40:15.065 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2023-09-29 16:40:15.141 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc-icons
+2023-09-29 16:40:15.191 [info] Installing extension: catppuccin.catppuccin-vsc
+2023-09-29 16:40:16.067 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc
+2023-09-29 16:40:16.090 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.3.0-universal: catppuccin.catppuccin-vsc
+2023-09-29 16:40:16.097 [info] Renamed to /home/lukas/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.3.0-universal
+2023-09-29 16:40:16.098 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2023-09-29 16:40:16.109 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-0.28.0-universal: catppuccin.catppuccin-vsc-icons
+2023-09-29 16:40:16.112 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2023-09-29 16:40:16.115 [info] Renamed to /home/lukas/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-0.28.0-universal
+2023-09-29 16:40:16.117 [info] Extracting extension completed. catppuccin.catppuccin-vsc-icons
+2023-09-29 16:40:16.125 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons
+2023-09-29 16:41:51.113 [info] Uninstalling extension from the profile: astro.astro@1.9.0 vscode-userdata:/home/lukas/.vscode-oss/extensions/extensions.json
+2023-09-29 16:41:51.134 [info] Successfully uninstalled extension from the profile astro.astro@1.9.0 vscode-userdata:/home/lukas/.vscode-oss/extensions/extensions.json
+2023-09-29 16:41:51.136 [info] Marked extension as uninstalled astro.astro-1.9.0
+2023-09-29 16:42:16.264 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2023-09-29 16:42:16.648 [info] Installing extension: arcticicestudio.nord-visual-studio-code
+2023-09-29 16:42:17.250 [info] Extension signature verification is not done: arcticicestudio.nord-visual-studio-code
+2023-09-29 16:42:17.285 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.19.0-universal: arcticicestudio.nord-visual-studio-code
+2023-09-29 16:42:17.290 [info] Renamed to /home/lukas/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.19.0-universal
+2023-09-29 16:42:17.292 [info] Extracting extension completed. arcticicestudio.nord-visual-studio-code
+2023-09-29 16:42:17.301 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code
+2023-09-29 16:44:51.975 [info] Getting Manifest... esbenp.prettier-vscode
+2023-09-29 16:44:52.115 [info] Installing extension: esbenp.prettier-vscode
+2023-09-29 16:44:52.784 [info] Getting Manifest... firsttris.vscode-jest-runner
+2023-09-29 16:44:52.912 [info] Installing extension: firsttris.vscode-jest-runner
+2023-09-29 16:44:53.525 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-09-29 16:44:53.660 [info] Installing extension: dbaeumer.vscode-eslint
+2023-09-29 16:44:54.371 [info] Getting Manifest... nrwl.angular-console
+2023-09-29 16:44:54.422 [info] Extension signature verification is not done: dbaeumer.vscode-eslint
+2023-09-29 16:44:54.504 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.2-universal: dbaeumer.vscode-eslint
+2023-09-29 16:44:54.516 [info] Renamed to /home/lukas/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.2-universal
+2023-09-29 16:44:54.516 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-09-29 16:44:54.524 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-09-29 16:44:54.545 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2023-09-29 16:44:54.624 [info] Installing extension: nrwl.angular-console
+2023-09-29 16:44:54.872 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal: esbenp.prettier-vscode
+2023-09-29 16:44:54.877 [info] Renamed to /home/lukas/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal
+2023-09-29 16:44:54.879 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-09-29 16:44:54.886 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-09-29 16:44:57.415 [info] Extension signature verification is not done: firsttris.vscode-jest-runner
+2023-09-29 16:44:57.516 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/firsttris.vscode-jest-runner-0.4.66-universal: firsttris.vscode-jest-runner
+2023-09-29 16:44:57.521 [info] Renamed to /home/lukas/.vscode-oss/extensions/firsttris.vscode-jest-runner-0.4.66-universal
+2023-09-29 16:44:57.522 [info] Extracting extension completed. firsttris.vscode-jest-runner
+2023-09-29 16:44:57.529 [info] Extension installed successfully: firsttris.vscode-jest-runner
+2023-09-29 16:45:03.870 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-09-29 16:45:03.998 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-09-29 16:45:05.771 [info] Extension signature verification is not done: nrwl.angular-console
+2023-09-29 16:45:06.030 [info] Extension signature verification is not done: bradlc.vscode-tailwindcss
+2023-09-29 16:45:06.062 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/bradlc.vscode-tailwindcss-0.10.0-universal: bradlc.vscode-tailwindcss
+2023-09-29 16:45:06.068 [info] Renamed to /home/lukas/.vscode-oss/extensions/bradlc.vscode-tailwindcss-0.10.0-universal
+2023-09-29 16:45:06.070 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-09-29 16:45:06.079 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-09-29 16:45:06.361 [info] Extracted extension to file:///home/lukas/.vscode-oss/extensions/nrwl.angular-console-18.8.1-universal: nrwl.angular-console
+2023-09-29 16:45:06.381 [info] Renamed to /home/lukas/.vscode-oss/extensions/nrwl.angular-console-18.8.1-universal
+2023-09-29 16:45:06.428 [info] Extracting extension completed. nrwl.angular-console
+2023-09-29 16:45:06.468 [info] Extension installed successfully: nrwl.angular-console
