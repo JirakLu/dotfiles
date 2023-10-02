@@ -1,9 +1,0 @@
-[url "git@gitlab.geekcoders.cz:"]
-  insteadOf = https://gitlab.geekcoders.cz
-
-[user]
-  name = JirakLu
-  email = jirak.lukas@gmail.com
-
-[includeIf "gitdir:~/Work/"]
-  path = ~/.gitconfig-work
